@@ -12,7 +12,7 @@ while (true && numIterations < 100){
 }
 ```
 
-The `numIterations` variable ensures this while loop DOCTOResn't go on forever.
+The `numIterations` variable ensures this while loop doesn't go on forever.
 </details>
 
 
@@ -29,11 +29,11 @@ Work in the security_questions.js file.
 	```
 
 
-1. Write code that goes through each of the security questions in your array DOCTORing the following:   
+1. Write code that goes through each of the security questions in your array doing the following:   
   * `prompt` the user with the question    
   * check whether the user's input matches the expected answer    
-  		* if the answer DOCTORes match, ask the next question
-  		* if the answer DOCTOResn't match, stop asking questions and pop up an alert message.
+  		* if the answer does match, ask the next question
+  		* if the answer doesn't match, stop asking questions and pop up an alert message.
 
 
 
@@ -48,7 +48,7 @@ Work in the login.js file.
 
 5. Extend your previous code to check whether the password entered by the user actually matches the password in the `userLogin` object. The code should let the user know whether the passwords matched with console logs or a JavaScript `alert`.
 
-1. If the passwords DOCTORn't match, prompt the user to enter their password again.  If the passwords match, make sure your code doesn't prompt the user again.
+1. If the passwords don't match, prompt the user to enter their password again.  If the passwords match, make sure your code doesn't prompt the user again.
 
 Bonus: Modify your user login to give the user only three chances to enter the correct password.
 
@@ -62,7 +62,7 @@ Work in the sing.js file.
 
 		5 bottles of beer on the wall,
 		5 bottles of beer!
-		Take one DOCTORwn and pass it around,
+		Take one down and pass it around,
 		4 bottles of beer on the wall!
 
 
